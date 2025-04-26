@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myreet-react-node-project/static/css/main.65560c04.css",
+    "main.js": "/myreet-react-node-project/static/js/main.bb4d8cd6.js",
+    "static/js/488.f769ca49.chunk.js": "/myreet-react-node-project/static/js/488.f769ca49.chunk.js",
+    "static/media/connected-busines-scaled-1.jpg": "/myreet-react-node-project/static/media/connected-busines-scaled-1.9b3962e7bf12ab0de6e6.jpg",
+    "static/media/lowcode.jpg": "/myreet-react-node-project/static/media/lowcode.1e0833126a70fbbcc02a.jpg",
+    "static/media/me.jpeg": "/myreet-react-node-project/static/media/me.7a241f71a32e094d8055.jpeg",
+    "static/media/sir.jpg": "/myreet-react-node-project/static/media/sir.84d3a05b7e9f4fa83ccf.jpg",
+    "static/media/findjob.jpg": "/myreet-react-node-project/static/media/findjob.f653d266842a24d5560b.jpg",
+    "static/media/non-profit.jpg": "/myreet-react-node-project/static/media/non-profit.5ec3788a9adf2d4e1727.jpg",
+    "static/media/open-laptop2.jpg": "/myreet-react-node-project/static/media/open-laptop2.5915276adfde0b5a65e6.jpg",
+    "static/media/fitjob.jpg": "/myreet-react-node-project/static/media/fitjob.e3c13ed85e56e47b5047.jpg",
+    "static/media/people-networking.jpg": "/myreet-react-node-project/static/media/people-networking.670ae5c72a4344f343c6.jpg",
+    "static/media/terms- and-condtions.jpg": "/myreet-react-node-project/static/media/terms- and-condtions.c1494f2442444760d927.jpg",
+    "static/media/lookandfindjob.png": "/myreet-react-node-project/static/media/lookandfindjob.5662baffd96f8a9448e8.png",
+    "index.html": "/myreet-react-node-project/index.html",
+    "main.65560c04.css.map": "/myreet-react-node-project/static/css/main.65560c04.css.map",
+    "main.bb4d8cd6.js.map": "/myreet-react-node-project/static/js/main.bb4d8cd6.js.map",
+    "488.f769ca49.chunk.js.map": "/myreet-react-node-project/static/js/488.f769ca49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65560c04.css",
+    "static/js/main.bb4d8cd6.js"
+  ]
+}
