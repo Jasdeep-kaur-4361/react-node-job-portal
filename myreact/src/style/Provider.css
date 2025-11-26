@@ -1,0 +1,13 @@
+#cards1{
+    float: left;
+    display: flex;
+}
+#cards{
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: red; */
+}
+
+#welcome{
+    color: rgb(50, 27, 144);
+}

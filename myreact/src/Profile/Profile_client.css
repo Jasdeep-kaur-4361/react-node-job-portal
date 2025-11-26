@@ -1,0 +1,28 @@
+.heading{
+    color: rgb(23, 61, 158);
+    font-weight: bolder;
+    font-family: serif;
+}
+
+.optionBox {
+    font-size: 24px;
+    color: blue;
+    background-color: aqua;
+}
+
+.labelProfile {
+    /* background-color: blueviolet; */
+    width:100px;
+    height: inherit;
+}
+.imagekuch{
+    background-color: brown;
+}
+.preview-box {
+    /* background-color: red; */
+    width:inherit;
+    height: inherit;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+

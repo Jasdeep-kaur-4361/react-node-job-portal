@@ -1,0 +1,21 @@
+#table{
+    /* background-color: red;  */
+    border-radius: 48%;
+}
+#name{
+    color: red;
+    font-size: 50px;
+}
+#size{
+    font-size: 30px;
+    align-items: self-start;
+}
+#outerbox{
+    background-color: rgba(200, 195, 195, 0.681);
+    /* border-radius: 0%; */
+}
+.subtle-rounded-table {
+    /* border-collapse: collapse; */
+    border-radius: 0px ; /* Adjust the value to control the roundness */
+    /* overflow: hidden; */
+  }

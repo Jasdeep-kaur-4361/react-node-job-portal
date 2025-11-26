@@ -1,0 +1,163 @@
+body{
+    background-color: #f0f5f5;
+
+}
+
+#crousel{
+    padding-top: 110px;
+}
+.navbar {
+    background-color: #f0f5f5;
+    height: 110px;
+    position: fixed;
+    /* top: 100; */
+    /* background-color: #476b6b; */
+    /* padding: 15px; */
+    z-index: 1000;
+    width: 100%;
+
+    box-shadow: 0 4px 8px rgb(126, 125, 125);
+}
+
+#maindiv {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.img {
+    width: auto;
+    height: 80px;
+    border-radius: 49%;
+    align-self: flex-start;
+    display: flex;
+    flex-grow: 1;
+    /* opacity: 0.3; */
+}
+#crousel{
+    opacity:0.9;
+}
+#webname {
+    /* background-color: #5c8a8a; */
+    font-size: 52px;
+    font-family: Imprint MT Shadow;
+    width: 60%;
+    text-align: left;
+
+}
+
+#aboutUs {
+    /* background-color: brown; */
+    width: 20%;
+    font-size: 20px;
+    text-align: center;
+    /* font-family: Jokerman; */
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+#graph {
+    /* background-color: greenyellow; */
+    width: 20%;
+    font-size: 20px;
+    text-align: center;
+    /* font-family: ; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#contact {
+    width: 20%;
+    font-size: 20px;
+    text-align: center;
+    font-family: Jokerman;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+#navName {
+    /* background-color: red; */
+    text-align: center;
+    display: flex;
+    flex-grow: 6;
+}
+
+.btns {
+    /* background-color: green; */
+    /* width: 30px; */
+    display: flex;
+    flex-grow: 1;
+
+}
+
+.btn1 {
+    background-color: #5c8a8a;
+    border-radius: 25px;
+    border: none;
+    width: 85px;
+    height: 50px;
+    font-size: large;
+    font-weight: medium;
+}
+
+.btn1:hover {
+    background-color: #476b6b;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: #f0f5f5;
+}
+.crousel{
+    width: 100%;
+}
+#bcase{
+    /* background-color: orange; */
+    color: rgb(35, 15, 68);
+    display: flex;
+    align-items: center;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    font-family: Matura MT Script Capitals;
+    /* Lucida Calligraphy */
+    /* Brush Script MT */
+}
+#card{
+    /* background-color: #f0f5f5; */
+    float: left;
+    display: flex;
+    padding-top: 10px;
+    padding-inline-start: 100px;
+    /* justify-content: space-evenly; */
+}
+#rcard:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+#kuch{
+    background-color: brown;
+}
+#dev{
+    background-color: red;
+    float: left;
+    display: flex;
+    /* flex-grow: 10; */
+    align-items: center;
+
+}
+#skills{
+    color: #f0f5f5;
+    text-align: left;
+}
+#skills2{
+    color: #f0f5f5;
+    text-align: right;
+}
+
+

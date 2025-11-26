@@ -1,0 +1,5 @@
+node_modules/
+mynode/node_modules/
+myreact/node_modules/
+.env
+uploads/
